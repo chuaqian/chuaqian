@@ -1,5 +1,6 @@
-## Hi there, I am Chua Qi An, a Year 2 Information Technology Student from Ngee Ann Polytechnic
 ## Welcome to my GitHub profile!
+###  Hi there, I am Chua Qi An, a Year 2 Information Technology Student from Ngee Ann Polytechnic
+
 
 ## Contact Information 🌱
 Email: chuaqian11@gmail.com
