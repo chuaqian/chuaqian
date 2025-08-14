@@ -1,5 +1,5 @@
 ## Welcome to my GitHub profile!
-###  Hi there, I am Chua Qi An, a Year 2 Information Technology Student from Ngee Ann Polytechnic
+###  Hi there, I am Chua Qi An, a Year 3 Information Technology Student from Ngee Ann Polytechnic, currently on a year long internship at OCBC!
 
 
 ## Contact Information 🌱
