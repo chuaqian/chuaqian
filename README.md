@@ -7,7 +7,7 @@
 #### LinkedIn: https://www.linkedin.com/in/chuaqian/
 
 ## About Me 🤔
-A Year 2 Student in Ngee Ann Polytechnic, currently pursuing a Diploma in Information Technology in the school of Infocomm Technology w/ a minor in Data Analytics & AI. I am extremely passionate and curious about the field of Software Engineering, and plan to pursue a career related to that field of work, along with the flexibility and interest of getting more knowledge of data science & Artificial intelligence. Let's connect on LinkedIn!
+A Year 3 Student in Ngee Ann Polytechnic, currently pursuing a Diploma in Information Technology in the school of Infocomm Technology w/ a minor in Data Analytics & AI. I am extremely passionate and curious about the field of Software Engineering, and plan to pursue a career related to that field of work, along with the flexibility and interest of getting more knowledge of data science & Artificial intelligence. Let's connect on LinkedIn!
 
 ## Certifications ⚡
 - ### Professional Scrum Master™ I (PSM I) - Scrum.org
